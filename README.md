@@ -3,9 +3,9 @@
 
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=Arieh-code.lironasaraf) 
-[![Github](https://img.shields.io/github/followers/Arieh-code?label=Followers&style=social)](https://github.com/lironasaraf) 
-[![GitHub stars](https://img.shields.io/github/stars/Arieh-code?label=Stars&style=social)](https://github.com/lironasaraf)
+![](https://visitor-badge.laobi.icu/badge?page_id=lironasaraf) 
+[![Github](https://img.shields.io/github/followers/lironasaraf?label=Followers&style=social)](https://github.com/lironasaraf) 
+[![GitHub stars](https://img.shields.io/github/stars/lironasaraf?label=Stars&style=social)](https://github.com/lironasaraf)
   
 </h3>
 
