@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Liron</h1>
 <h3 align="center">B.Sc. Computer Scinece | Full Stack developer </h3>
+<h4 align="center">Working as iOS developer at Aime</h2>
 
 <h3 align="center"> 
   
@@ -19,6 +20,7 @@
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <span>
+    <img src="https://img.shields.io/badge/Swift-5.3-orange.svg?style=for-the-badge&logo=swift" alt="swift" height="40"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/>
@@ -37,6 +39,7 @@
 
 <h4 align="left">Frameworks & Libraries:</h3>
 <span>
+    <img src="https://img.shields.io/badge/SwiftUI-blue.svg?style=for-the-badge&logo=swift&logoColor=black" alt="swuiftui" height="40"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" height="40"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="40"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="40"/>
