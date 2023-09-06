@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Liron</h1>
 <h3 align="center">B.Sc. Computer Scinece | Full Stack developer </h3>
-<h4 align="center">Working as iOS developer at Aime</h2>
+<h4 align="center">Working as iOS developer at AIMEVerse</h2>
 
 <h3 align="center"> 
   
